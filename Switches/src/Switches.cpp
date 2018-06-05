@@ -34,5 +34,7 @@ int main() {
 	default:
 		cout << "Unrecognized value" << endl;
 	}
+
+	//switches cannot use string values
 	return 0;
 }

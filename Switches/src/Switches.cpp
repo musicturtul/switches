@@ -24,6 +24,9 @@ int main() {
 	case 6:
 		cout << "Value is 6" << endl;
 		break;
+	case 7:
+		cout << "Value is 7" << endl;
+		break;
 	//use a default case so that something happens even if no cases match
 	default:
 		cout << "Unrecognized value" << endl;
